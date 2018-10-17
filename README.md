@@ -5,6 +5,7 @@ for accomplishing some basic observability goals.
 ## Tools
 You'll need the tools below to follow along. 
 
+* [CF Top CLI](https://github.com/ECSTeam/cloudfoundry-top-plugin)
 * [Drain CLI](https://github.com/cloudfoundry/cf-drain-cli)
 * [Log Cache CLI](https://github.com/cloudfoundry/log-cache-cli)
 * [Metric Registrar](https://github.com/pivotal-cf/metric-registrar-cli)
