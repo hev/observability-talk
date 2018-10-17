@@ -19,3 +19,5 @@ You'll need the tools below to follow along.
 ## Binding the MEtrics Regrstrart and Using Log Cache CLI
 
 ## Syslog to Datadog and a Metric Drain
+
+## Setting up a Monitor in Datadog
