@@ -9,8 +9,8 @@ You'll need the tools below to follow along.
 * [Log Cache CLI](https://github.com/cloudfoundry/log-cache-cli)
 * [Metric Registrar](https://github.com/pivotal-cf/metric-registrar-cli)
 * [Loggregator Tools](https://github.com/cloudfoundry-incubator/loggregator-tools)
-* [Paper Trail] (https://papertrailapp.com/) (Free Trial only needed)
-* [Datadog] (Free trial only needed)
+* [Paper Trail](https://papertrailapp.com/) (Free Trial only needed)
+* [Datadog](https://www.datadoghq.com/) (Free trial only needed)
 
 ## Setting up a Space ad a Drain
 
