@@ -12,7 +12,7 @@ You'll need the tools below to follow along.
 * [Paper Trail](https://papertrailapp.com/) (Free Trial only needed)
 * [Datadog](https://www.datadoghq.com/) (Free trial only needed)
 
-## Setting up a Space ad a Drain
+## Setting up a Space and a Drain
 
 ## Building and Deploying a Spring Booot 2 App
 
